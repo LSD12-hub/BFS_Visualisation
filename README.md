@@ -4,7 +4,7 @@ An application that visualises how `Breath First Search` works
 
 I made this application to help me understand and visualise what BFS is actual doing
 
-I might add some more features, maybe, I dont know \\__(o_o)_/.
+I might add some more features, maybe, I dont know \\\__(o_o)_/.
 
 ## What do the colours mean ?
 - `Black` : Obstacles or walls
